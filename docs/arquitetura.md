@@ -1,0 +1,1 @@
+# Desenho da solução e tecnologias
