@@ -1,1 +1,31 @@
- # Licença (ex: All rights reserved)
+ CREATIVE COMMONS ATTRIBUTION-NONCOMMERCIAL 4.0 INTERNATIONAL (CC BY-NC 4.0)
+===========================================================================
+
+Este trabalho está licenciado sob a Licença Creative Commons Atribuição-NãoComercial 4.0 Internacional.
+
+Para ver uma cópia desta licença, visite: http://creativecommons.org/licenses/by-nc/4.0/
+
+VOCÊ TEM O DIREITO DE:
+---------------------
+✓ Compartilhar — copiar e redistribuir o material em qualquer suporte ou formato
+✓ Adaptar — remixar, transformar e criar a partir do material
+✓ Usar para fins educacionais e de pesquisa
+
+SOB AS SEGUINTES CONDIÇÕES:
+---------------------------
+• Atribuição — Você deve dar o crédito apropriado, fornecer um link para a licença e indicar se 
+  mudanças foram feitas. Você pode fazê-lo de qualquer forma razoável, mas não de forma a sugerir 
+  que o licenciante o apoia ou aprova seu uso.
+
+• Não Comercial — Você não pode usar o material para fins comerciais. Isso inclui:
+  - Vender ou cobrar pelo acesso ao material
+  - Usar como base para produtos ou serviços comerciais
+  - Exploração comercial de qualquer natureza
+
+ISENÇÃO DE RESPONSABILIDADE:
+---------------------------
+A licença é fornecida "COMO ESTÁ". O licenciante não oferece garantias de qualquer tipo, expressas 
+ou implícitas. Em nenhum caso o licenciante será responsável por qualquer reivindicação, dano ou 
+outra responsabilidade decorrente do uso deste material.
+
+Para mais informações sobre CC BY-NC 4.0, visite: https://creativecommons.org/licenses/by-nc/4.0/
